@@ -1,0 +1,14 @@
+Package: idxrepr
+Type: Package
+Title: Season- and Trend-aware Symbolic Approximations
+Version: 1.0
+Authors@R: person("Lars", "Kegel", email = "lars.kegel@tu-dresden.de", 
+  role = c("aut", "cre"))
+Description: Season- and Trend-aware Symbolic Approximations
+License: All rights reserved
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.1.1
+LinkingTo: Rcpp
+Imports: Rcpp
